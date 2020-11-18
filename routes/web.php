@@ -24,5 +24,8 @@ Route::middleware(['auth:sanctum', 'verified'])->group(function () {
     Route::get('films', function() {
         return view('films.index');
     })->name('films.index');
+    Route::get('films/create', function() {
+        return view('films.create');
+    })->name('films.create');
 
 });

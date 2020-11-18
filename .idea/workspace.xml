@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f77bbd2-ae53-431c-9f2e-6bd6fa3142f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/ShowFilms.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/ShowFilms.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/show-films.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/show-films.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/films/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/films/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,29 +29,29 @@
         <counts>
           <entry key="env" value="1" />
           <entry key="json" value="1" />
-          <entry key="php" value="41" />
+          <entry key="php" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key=".env file" value="1" />
-          <entry key="Blade" value="12" />
+          <entry key="Blade" value="14" />
           <entry key="JSON" value="1" />
-          <entry key="PHP" value="29" />
+          <entry key="PHP" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
           <entry key="env" value="27" />
-          <entry key="php" value="2377" />
+          <entry key="php" value="2529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key=".env file" value="27" />
-          <entry key="Blade" value="709" />
-          <entry key="PHP" value="1668" />
+          <entry key="Blade" value="837" />
+          <entry key="PHP" value="1692" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -63,32 +64,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/films/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="5" column="13" lean-forward="true" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/films/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="3" column="25" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Livewire/ShowFilms.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/films/show.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding>
-                <element signature="e#37#57#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/livewire/show-films.blade.php">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="30" column="167" selection-start-line="30" selection-start-column="167" selection-end-line="30" selection-end-column="167" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2020_11_18_105617_create_films_table.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="461">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -108,6 +115,7 @@
       <find>text-gray-200</find>
       <find>bg</find>
       <find>desc</find>
+      <find>more i</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -131,9 +139,7 @@
         <option value="$PROJECT_DIR$/resources/views/vendor/jetstream/components/application-mark.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/vendor/jetstream/components/welcome.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ShowFilms.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/films/index.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2020_11_18_100415_create_genres_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2020_11_18_113337_create_film_genre_pivot_table.php" />
         <option value="$PROJECT_DIR$/app/Models/Genre.php" />
@@ -144,6 +150,10 @@
         <option value="$PROJECT_DIR$/database/migrations/2020_11_18_105617_create_films_table.php" />
         <option value="$PROJECT_DIR$/resources/views/livewire/show-films.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Livewire/ShowFilms.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/films/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/films/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/films/show.blade.php" />
       </list>
     </option>
   </component>
@@ -432,7 +442,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="show&#9;FILE&#9;file:///Projects/films-test/app/Http/Livewire/ShowFilms.php&#10;database&#9;FILE&#9;file:///Projects/films-test/database/seeders/DatabaseSeeder.php&#10;genre&#9;FILE&#9;file:///Projects/films-test/app/Models/Genre.php&#10;navigation&#9;FILE&#9;file:///Projects/films-test/resources/views/navigation-dropdown.blade.php&#10;web&#9;FILE&#9;file:///Projects/films-test/routes/web.php&#10;welcome&#9;FILE&#9;file:///Projects/films-test/resources/views/welcome.blade.php&#10;dashbo&#9;FILE&#9;file:///Projects/films-test/resources/views/dashboard.blade.php&#10;authentication-ca&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/authentication-card-logo.blade.php&#10;application-ma&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-mark.blade.php&#10;applica&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-mark.blade.php&#10;applicationlo&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-logo.blade.php&#10;navigationd&#9;FILE&#9;file:///Projects/films-test/resources/views/navigation-dropdown.blade.php&#10;app.bla&#9;FILE&#9;file:///Projects/films-test/resources/views/layouts/app.blade.php&#10;appser&#9;FILE&#9;file:///Projects/films-test/app/Providers/AppServiceProvider.php&#10;app.blade&#9;FILE&#9;file:///Projects/films-test/resources/views/layouts/app.blade.php&#10;user&#9;null&#9;null&#10;.env&#9;FILE&#9;file:///Projects/films-test/.env" />
+    <property name="SearchEverywhereHistoryKey" value="web&#9;FILE&#9;file:///Projects/films-test/routes/web.php&#10;films/inde&#9;FILE&#9;file:///Projects/films-test/resources/views/films/index.blade.php&#10;show&#9;FILE&#9;file:///Projects/films-test/app/Http/Livewire/ShowFilms.php&#10;database&#9;FILE&#9;file:///Projects/films-test/database/seeders/DatabaseSeeder.php&#10;genre&#9;FILE&#9;file:///Projects/films-test/app/Models/Genre.php&#10;navigation&#9;FILE&#9;file:///Projects/films-test/resources/views/navigation-dropdown.blade.php&#10;welcome&#9;FILE&#9;file:///Projects/films-test/resources/views/welcome.blade.php&#10;dashbo&#9;FILE&#9;file:///Projects/films-test/resources/views/dashboard.blade.php&#10;authentication-ca&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/authentication-card-logo.blade.php&#10;application-ma&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-mark.blade.php&#10;applica&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-mark.blade.php&#10;applicationlo&#9;FILE&#9;file:///Projects/films-test/resources/views/vendor/jetstream/components/application-logo.blade.php&#10;navigationd&#9;FILE&#9;file:///Projects/films-test/resources/views/navigation-dropdown.blade.php&#10;app.bla&#9;FILE&#9;file:///Projects/films-test/resources/views/layouts/app.blade.php&#10;appser&#9;FILE&#9;file:///Projects/films-test/app/Providers/AppServiceProvider.php&#10;app.blade&#9;FILE&#9;file:///Projects/films-test/resources/views/layouts/app.blade.php&#10;user&#9;null&#9;null&#10;.env&#9;FILE&#9;file:///Projects/films-test/.env" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -463,12 +473,12 @@
       <option name="presentableId" value="Default" />
       <updated>1605686493572</updated>
       <workItem from="1605686495119" duration="3947000" />
-      <workItem from="1605693495835" duration="7461000" />
+      <workItem from="1605693495835" duration="8745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11408000" />
+    <option name="totallyTimeSpent" value="12692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -655,24 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/navigation-dropdown.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/films/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -743,20 +739,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/livewire/show-films.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="30" column="167" selection-start-line="30" selection-start-column="167" selection-end-line="30" selection-end-column="167" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Livewire/ShowFilms.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="-577">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
             <element signature="e#37#57#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/livewire/show-films.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/films/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="3" column="25" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/films/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="5" column="13" lean-forward="true" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/films/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>

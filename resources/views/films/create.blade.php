@@ -2,7 +2,7 @@
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Films') }}
-            <a href="{{ route('films.create') }}" class="text-lg font-black py-1 px-3 rounded-full bg-purple-400 text-white">+</a>
+            <a href="{{ route('films.index') }}" class="text-sm font-black py-1 px-3 rounded-full bg-purple-400 text-white">View All</a>
         </h2>
     </x-slot>
 
